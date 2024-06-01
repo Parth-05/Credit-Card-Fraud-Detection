@@ -34,7 +34,7 @@ This project focuses on detecting credit card fraud through advanced data analys
 ## How to Run the Project
 
 1. Clone the repository:
-    git clone https://github.com/Parth-05/Credit-Card-Fraud-Detection](https://github.com/Parth-05/Credit-Card-Fraud-Detection/tree/master.git
+    git clone https://github.com/Parth-05/Credit-Card-Fraud-Detection/tree/master.git
     
 2. Navigate to the project directory:
     cd credit-card-fraud-detection
