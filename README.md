@@ -1,6 +1,7 @@
 # Credit Card Fraud Detection
 
 ## Project Description
+![credit-card-fraud-detection](https://github.com/Parth-05/Credit-Card-Fraud-Detection/assets/102514687/04d5924f-b17a-4042-aece-2d02efdc9b17)
 
 This project focuses on detecting credit card fraud through advanced data analysis and machine learning techniques. It involves thorough dataset analysis to identify key patterns and anomalies indicative of fraudulent activity. The challenge of imbalanced data is addressed using the SMOTE technique. Various machine learning models are implemented and optimized, with GridSearchCV employed to fine-tune hyperparameters effectively. The improved models demonstrate higher accuracy and reliability in detecting fraudulent transactions. This project showcases robust analytical skills and the application of sophisticated techniques to solve real-world problems, highlighting the importance of data preprocessing and model optimization in achieving superior results. It contributes to the broader effort of enhancing financial security.
 
